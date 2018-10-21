@@ -19,7 +19,7 @@ apt-get install -y git-core gcc make autoconf automake libtool pkg-config libgli
 apt-get install -y git-core gcc make autoconf automake libtool pkg-config libglib2.0-dev
 
 # Sigrok PulseView
-apt-get install -y install git-core g++ make cmake libtool pkg-config \
+apt-get install -y git-core g++ make cmake libtool pkg-config \
   libglib2.0-dev libboost-test-dev libboost-serialization-dev \
   libboost-filesystem-dev libboost-system-dev libqt5svg5-dev qtbase5-dev
 
