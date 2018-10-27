@@ -1,4 +1,4 @@
-#! /usr/bin/env sh 
+#! /usr/bin/env sh
 echo "Installing stuff"
 apt-get update -y
 apt-get install -y apt-utils git vim dirmngr gnupg gnupg-agent software-properties-common python3 autoconf gperf bison flex gcc g++ make colormake swig python-dev cmake subversion iverilog python3-pip python-pip
@@ -22,4 +22,3 @@ apt-get install -y git-core gcc make autoconf automake libtool pkg-config libgli
 apt-get install -y git-core g++ make cmake libtool pkg-config \
   libglib2.0-dev libboost-test-dev libboost-serialization-dev \
   libboost-filesystem-dev libboost-system-dev libqt5svg5-dev qtbase5-dev
-
